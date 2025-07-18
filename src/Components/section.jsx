@@ -2,7 +2,7 @@ import React from 'react'
 import Typed from 'typed.js'
 import {useEffect, useRef} from 'react'
 import {motion} from 'framer-motion'
-import Logo2 from '../assets/Logo2.png'
+import Logo2 from '../assets/logo2.png'
 
 
 
